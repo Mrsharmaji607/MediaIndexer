@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/media_app.dir/main.cpp.o CMakeFiles/media_app.dir/MediaScanner.cpp.o CMakeFiles/media_app.dir/MediaExtractor.cpp.o CMakeFiles/media_app.dir/MediaDatabse.cpp.o CMakeFiles/media_app.dir/Songs.cpp.o  -o media_app 
