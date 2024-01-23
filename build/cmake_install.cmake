@@ -1,4 +1,4 @@
-# Install script for directory: /home/kpit/Desktop/asd
+# Install script for directory: /home/kpit/Documents/asd 1/asd
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kpit/Desktop/asd/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kpit/Documents/asd 1/asd/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kpit/Desktop/asd/MediaDatabse.cpp" "/home/kpit/Desktop/asd/build/CMakeFiles/media_app.dir/MediaDatabse.cpp.o"
-  "/home/kpit/Desktop/asd/MediaExtractor.cpp" "/home/kpit/Desktop/asd/build/CMakeFiles/media_app.dir/MediaExtractor.cpp.o"
-  "/home/kpit/Desktop/asd/MediaScanner.cpp" "/home/kpit/Desktop/asd/build/CMakeFiles/media_app.dir/MediaScanner.cpp.o"
-  "/home/kpit/Desktop/asd/Songs.cpp" "/home/kpit/Desktop/asd/build/CMakeFiles/media_app.dir/Songs.cpp.o"
-  "/home/kpit/Desktop/asd/main.cpp" "/home/kpit/Desktop/asd/build/CMakeFiles/media_app.dir/main.cpp.o"
+  "/home/kpit/Documents/asd 1/asd/MediaDatabse.cpp" "/home/kpit/Documents/asd 1/asd/build/CMakeFiles/media_app.dir/MediaDatabse.cpp.o"
+  "/home/kpit/Documents/asd 1/asd/MediaExtractor.cpp" "/home/kpit/Documents/asd 1/asd/build/CMakeFiles/media_app.dir/MediaExtractor.cpp.o"
+  "/home/kpit/Documents/asd 1/asd/MediaScanner.cpp" "/home/kpit/Documents/asd 1/asd/build/CMakeFiles/media_app.dir/MediaScanner.cpp.o"
+  "/home/kpit/Documents/asd 1/asd/Songs.cpp" "/home/kpit/Documents/asd 1/asd/build/CMakeFiles/media_app.dir/Songs.cpp.o"
+  "/home/kpit/Documents/asd 1/asd/main.cpp" "/home/kpit/Documents/asd 1/asd/build/CMakeFiles/media_app.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,57 +6,47 @@
 
 #IncludeRegexTransform: 
 
-/home/kpit/Desktop/asd/MediaDatabse.h
+/home/kpit/Documents/asd 1/asd/MediaDatabse.h
 Songs.h
-/home/kpit/Desktop/asd/Songs.h
+/home/kpit/Documents/asd 1/asd/Songs.h
 Songs.h
-/home/kpit/Desktop/asd/Songs.h
+/home/kpit/Documents/asd 1/asd/Songs.h
 vector
 -
 
-/home/kpit/Desktop/asd/MediaExtractor.h
+/home/kpit/Documents/asd 1/asd/MediaExtractor.h
 Songs.h
-/home/kpit/Desktop/asd/Songs.h
+/home/kpit/Documents/asd 1/asd/Songs.h
 
-/home/kpit/Desktop/asd/MediaScanner.cpp
+/home/kpit/Documents/asd 1/asd/MediaScanner.cpp
 MediaScanner.h
-/home/kpit/Desktop/asd/MediaScanner.h
+/home/kpit/Documents/asd 1/asd/MediaScanner.h
 MediaExtractor.h
-/home/kpit/Desktop/asd/MediaExtractor.h
+/home/kpit/Documents/asd 1/asd/MediaExtractor.h
 Songs.h
-/home/kpit/Desktop/asd/Songs.h
+/home/kpit/Documents/asd 1/asd/Songs.h
 iostream
 -
 filesystem
 -
+fstream
+-
 
-/home/kpit/Desktop/asd/MediaScanner.h
+/home/kpit/Documents/asd 1/asd/MediaScanner.h
 MediaDatabse.h
-/home/kpit/Desktop/asd/MediaDatabse.h
+/home/kpit/Documents/asd 1/asd/MediaDatabse.h
 MediaExtractor.h
-/home/kpit/Desktop/asd/MediaExtractor.h
+/home/kpit/Documents/asd 1/asd/MediaExtractor.h
 vector
 -
 string
 -
 Songs.h
-/home/kpit/Desktop/asd/Songs.h
-
-/home/kpit/Desktop/asd/Songs.h
-string
--
-
-/home/kpit/Desktop/asd/main.cpp
-MediaScanner.h
-/home/kpit/Desktop/asd/MediaScanner.h
-MediaExtractor.h
-/home/kpit/Desktop/asd/MediaExtractor.h
-MediaDatabse.h
-/home/kpit/Desktop/asd/MediaDatabse.h
-Songs.h
-/home/kpit/Desktop/asd/Songs.h
-iostream
--
+/home/kpit/Documents/asd 1/asd/Songs.h
 filesystem
+-
+
+/home/kpit/Documents/asd 1/asd/Songs.h
+string
 -
 

@@ -1,3 +1,3 @@
-/home/kpit/Desktop/asd/build/CMakeFiles/edit_cache.dir
-/home/kpit/Desktop/asd/build/CMakeFiles/rebuild_cache.dir
-/home/kpit/Desktop/asd/build/CMakeFiles/media_app.dir
+/home/kpit/Documents/asd 1/asd/build/CMakeFiles/edit_cache.dir
+/home/kpit/Documents/asd 1/asd/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Documents/asd 1/asd/build/CMakeFiles/media_app.dir

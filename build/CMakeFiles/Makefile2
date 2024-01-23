@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kpit/Desktop/asd
+CMAKE_SOURCE_DIR = "/home/kpit/Documents/asd 1/asd"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kpit/Desktop/asd/build
+CMAKE_BINARY_DIR = "/home/kpit/Documents/asd 1/asd/build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/media_app.dir/clean
 CMakeFiles/media_app.dir/all:
 	$(MAKE) -f CMakeFiles/media_app.dir/build.make CMakeFiles/media_app.dir/depend
 	$(MAKE) -f CMakeFiles/media_app.dir/build.make CMakeFiles/media_app.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kpit/Desktop/asd/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target media_app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/kpit/Documents/asd 1/asd/build/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target media_app"
 .PHONY : CMakeFiles/media_app.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/media_app.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kpit/Desktop/asd/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/kpit/Documents/asd 1/asd/build/CMakeFiles" 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/media_app.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kpit/Desktop/asd/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/kpit/Documents/asd 1/asd/build/CMakeFiles" 0
 .PHONY : CMakeFiles/media_app.dir/rule
 
 # Convenience name for target.

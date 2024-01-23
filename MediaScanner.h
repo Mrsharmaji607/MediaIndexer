@@ -6,6 +6,7 @@
 #include <vector>
 #include <string>
 #include "Songs.h"
+#include <filesystem>
 
 class MediaScanner {
    
@@ -20,7 +21,7 @@ public:
     // Constructor that takes the folder path as an argument
     //MediaScanner(std::vector<Song>& songsRef, const std::string& Pathfolder);
     void displayFileInfo(const std::filesystem::directory_entry& entry) const;
-    std::string getFileExtension(const std::string& filePath) const;
+    //std::string getFileExtension(const std::string& filePath) const;
     //MediaScanner(std::string st);
 
     void scanMedia(const std::string& folderPath);

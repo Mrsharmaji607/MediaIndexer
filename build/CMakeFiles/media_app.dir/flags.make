@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/kpit/Desktop/asd/include 
+CXX_INCLUDES = -I"/home/kpit/Documents/asd 1/asd/include" 
 

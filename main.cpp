@@ -27,8 +27,14 @@ int main() {
                   << "4. Exit\n"
                   << "Enter option (1-4): ";
 
-        int option;
-        std::cin >> option;
+       int option;
+        if (!(std::cin >> option)) {
+            // Handle non-integer input
+            std::cin.clear(); // Clear the error flag
+            std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Discard invalid input
+            std::cout << "Invalid input. Please enter a valid option.\n";
+            continue;
+        }
 
         switch (option) {
             case 1:
